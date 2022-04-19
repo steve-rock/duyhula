@@ -1,0 +1,8 @@
+{
+	"providers": [
+		"dist/providers/fmovies_a.js",
+		"dist/providers/vumoo.js",
+		"dist/providers/fsapi.js",
+		"dist/providers/fmovies.js"
+	]
+}
